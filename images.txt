@@ -6,5 +6,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #mysql:5.7
 #tomcat
-tomcat:8.5.88-jdk8
 #jenkins/jenkins
+tomcat:8.5.88-jdk8
+
