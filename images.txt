@@ -7,5 +7,11 @@
 #mysql:5.7
 #tomcat
 #jenkins/jenkins
-tomcat:8.5.88-jdk8
-
+#tomcat:8.5.88-jdk8
+k8s.qcr.io/kube-proxy
+k8s.qcr.io/kube-apiserver
+k8s.qcr.io/kube-controller-manaqer
+k8s.qcr.io/kube-scheduler
+k8s.qcr.io/coredns
+k8s.qcr.io/etcd
+k8s.qcr.io/pause
